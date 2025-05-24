@@ -1,0 +1,1508 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\services\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\services\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|d:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u043E\u043E\u043F\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\wpfappcourse\\wpfappcourse\\resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\viewmodels\\appointmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\viewmodels\\appointmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|d:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u043E\u043E\u043F\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\wpfappcourse\\wpfappcourse\\views\\services.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\services.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\services\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\services\\validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\services\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\services\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\specialists.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\specialists.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\viewmodels\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\viewmodels\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\viewmodels\\adminservicesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\viewmodels\\adminservicesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\viewmodels\\specialistsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\viewmodels\\specialistsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\viewmodels\\userprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\viewmodels\\userprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\viewmodels\\adminreviewviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\viewmodels\\adminreviewviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\viewmodels\\adminusersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\viewmodels\\adminusersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\viewmodels\\servicesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\viewmodels\\servicesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\viewmodels\\adminspecialistsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\viewmodels\\adminspecialistsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\viewmodels\\adminreservsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\viewmodels\\adminreservsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\userprofil.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\userprofil.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\specialists.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\specialists.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\services.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\services.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\servicedetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\servicedetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\mainreviews.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\mainreviews.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\appointmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\appointmentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\adminusers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\adminusers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\adminspecialists.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\adminspecialists.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\adminservices.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\adminservices.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\adminreviews.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\adminreviews.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\adminreservs.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\adminreservs.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\viewmodels\\servicedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\viewmodels\\servicedetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\viewmodels\\reviewsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\viewmodels\\reviewsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\resources\\resources.en.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\resources\\resources.en.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\models\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\models\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\models\\reviewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\models\\reviewitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\models\\reserv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\models\\reserv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\models\\mainspecialists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\models\\mainspecialists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\models\\mainservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\models\\mainservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\userprofil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\userprofil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\adminusers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\adminusers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\MainSpecialists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\MainSpecialists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\adminspecialists.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\adminspecialists.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\appointmentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\appointmentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\adminreservs.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\adminreservs.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\servicedetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\servicedetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\mainreviews.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\mainreviews.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\resources\\themes\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\resources\\themes\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\resources\\themes\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\resources\\themes\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\adminservices.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\adminservices.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\views\\adminreviews.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\views\\adminreviews.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\3184477fe52af1e068377d5e5a904089bd3c3856a70df60d9370d02600d3b95c\\Application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\1a8a06725b962114965bd76c84cbe99ae0df5a74534edb4af97b4b6220416a32\\ItemCollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\MainReviews.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\MainReviews.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\wpfappcourse\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4863ED37-CE69-4A1A-8668-D60C57FF0AD8}|WpfAppCourse\\WpfAppCourse.csproj|solutionrelative:wpfappcourse\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Reserv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\Reserv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ReviewItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\ReviewItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\Reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\UserState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\UserState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\MainServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\MainServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\MainPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\MainPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\MainReviews.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\MainReviews.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Services.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\Services.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ServiceDetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\ServiceDetails.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ServiceDetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\ServiceDetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\MainPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\MainPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\AppointmentWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\AppointmentWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\Login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Specialists.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\Specialists.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\AppContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\AppContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Services.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\Services.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Specialists.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\Specialists.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\AppointmentWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\AppointmentWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\UserProfil.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\UserProfil.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\UserProfil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\UserProfil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\Login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\Signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WpfAppCourse\\Signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Resources\\Styles.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Resources\\Styles.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Resources\\Styles.xaml",
+              "RelativeToolTip": "WpfAppCourse\\Resources\\Styles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-23T17:05:55.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Services\\UserManager.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Services\\UserManager.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Services\\UserManager.cs",
+              "RelativeToolTip": "WpfAppCourse\\Services\\UserManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAABRwAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T21:49:25.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppointmentViewModel.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\AppointmentViewModel.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\ViewModels\\AppointmentViewModel.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\AppointmentViewModel.cs",
+              "RelativeToolTip": "WpfAppCourse\\ViewModels\\AppointmentViewModel.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAAGIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:03:23.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\App.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\App.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\App.xaml",
+              "RelativeToolTip": "WpfAppCourse\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T15:39:30.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailServices.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Services\\EmailServices.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Services\\EmailServices.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Services\\EmailServices.cs",
+              "RelativeToolTip": "WpfAppCourse\\Services\\EmailServices.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:27:08.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignupViewModel.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\SignupViewModel.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\ViewModels\\SignupViewModel.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\SignupViewModel.cs",
+              "RelativeToolTip": "WpfAppCourse\\ViewModels\\SignupViewModel.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAEMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T20:20:14.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Validation.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Services\\Validation.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Services\\Validation.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Services\\Validation.cs",
+              "RelativeToolTip": "WpfAppCourse\\Services\\Validation.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAABRwCcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T21:56:12.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Services.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\Services.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\Services.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\Services.xaml",
+              "RelativeToolTip": "WpfAppCourse\\Views\\Services.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-10T13:56:27.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MainSpecialists.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\MainSpecialists.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\MainSpecialists.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\MainSpecialists.cs",
+              "RelativeToolTip": "WpfAppCourse\\MainSpecialists.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:27:38.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Specialists.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Specialists.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Specialists.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Specialists.xaml",
+              "RelativeToolTip": "WpfAppCourse\\Specialists.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-30T15:30:30.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Reserv.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Reserv.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Reserv.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Reserv.cs",
+              "RelativeToolTip": "WpfAppCourse\\Reserv.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T09:00:53.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\MainPage.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\MainPage.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\MainPage.xaml",
+              "RelativeToolTip": "WpfAppCourse\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-24T14:30:51.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "UserProfil.xaml.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\UserProfil.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\UserProfil.xaml.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\UserProfil.xaml.cs",
+              "RelativeToolTip": "WpfAppCourse\\UserProfil.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:02:23.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "AppointmentWindow.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\AppointmentWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\AppointmentWindow.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\AppointmentWindow.xaml",
+              "RelativeToolTip": "WpfAppCourse\\AppointmentWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-07T08:28:27.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Login.xaml.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Login.xaml.cs",
+              "RelativeToolTip": "WpfAppCourse\\Login.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:57:58.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "AppContext.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\AppContext.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\AppContext.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\AppContext.cs",
+              "RelativeToolTip": "WpfAppCourse\\AppContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:12:50.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Services.xaml.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Services.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Services.xaml.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Services.xaml.cs",
+              "RelativeToolTip": "WpfAppCourse\\Services.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:48:49.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Specialists.xaml.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Specialists.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Specialists.xaml.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Specialists.xaml.cs",
+              "RelativeToolTip": "WpfAppCourse\\Specialists.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:34:51.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "AppointmentWindow.xaml.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\AppointmentWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\AppointmentWindow.xaml.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\AppointmentWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppCourse\\AppointmentWindow.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T08:33:48.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Reviews.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Reviews.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Reviews.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Reviews.cs",
+              "RelativeToolTip": "WpfAppCourse\\Reviews.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:52:38.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ReviewItem.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ReviewItem.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\ReviewItem.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ReviewItem.cs",
+              "RelativeToolTip": "WpfAppCourse\\ReviewItem.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:46:43.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Signup.xaml.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Signup.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Signup.xaml.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Signup.xaml.cs",
+              "RelativeToolTip": "WpfAppCourse\\Signup.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T16:15:32.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ItemCollection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\1a8a06725b962114965bd76c84cbe99ae0df5a74534edb4af97b4b6220416a32\\ItemCollection.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\1a8a06725b962114965bd76c84cbe99ae0df5a74534edb4af97b4b6220416a32\\ItemCollection.cs",
+              "ViewState": "AQIAAJ4GAAAAAAAAAAAtwLYGAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:01:44.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Login.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Login.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Login.xaml",
+              "RelativeToolTip": "WpfAppCourse\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T15:42:56.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Signup.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Signup.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Signup.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Signup.xaml",
+              "RelativeToolTip": "WpfAppCourse\\Signup.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-06T15:57:04.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "UserProfil.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\UserProfil.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\UserProfil.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\UserProfil.xaml",
+              "RelativeToolTip": "WpfAppCourse\\UserProfil.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T13:34:18.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\3184477fe52af1e068377d5e5a904089bd3c3856a70df60d9370d02600d3b95c\\Application.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\3184477fe52af1e068377d5e5a904089bd3c3856a70df60d9370d02600d3b95c\\Application.cs",
+              "ViewState": "AQIAAKECAAAAAAAAAAASwKkCAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:06:49.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\User.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\User.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\User.cs",
+              "RelativeToolTip": "WpfAppCourse\\User.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:52:26.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "UserState.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\UserState.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\UserState.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\UserState.cs",
+              "RelativeToolTip": "WpfAppCourse\\UserState.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T10:50:57.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Services.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Services.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Services.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Services.xaml",
+              "RelativeToolTip": "WpfAppCourse\\Services.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-02T06:47:18.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "MainServices.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\MainServices.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\MainServices.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\MainServices.cs",
+              "RelativeToolTip": "WpfAppCourse\\MainServices.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:23:00.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "MainReviews.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\MainReviews.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\MainReviews.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\MainReviews.xaml",
+              "RelativeToolTip": "WpfAppCourse\\MainReviews.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-01T16:58:18.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "MainReviews.xaml.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\MainReviews.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\MainReviews.xaml.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\MainReviews.xaml.cs",
+              "RelativeToolTip": "WpfAppCourse\\MainReviews.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:25:16.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\MainPage.xaml.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\MainPage.xaml.cs",
+              "RelativeToolTip": "WpfAppCourse\\MainPage.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:31:02.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ServiceDetails.xaml.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ServiceDetails.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\ServiceDetails.xaml.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ServiceDetails.xaml.cs",
+              "RelativeToolTip": "WpfAppCourse\\ServiceDetails.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:35:30.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ServiceDetails.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ServiceDetails.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\ServiceDetails.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ServiceDetails.xaml",
+              "RelativeToolTip": "WpfAppCourse\\ServiceDetails.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-04T20:16:39.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppCourse\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T12:09:55.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Specialists.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\Specialists.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\Specialists.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\Specialists.xaml",
+              "RelativeToolTip": "WpfAppCourse\\Views\\Specialists.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-10T08:24:59.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "WpfAppCourse\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-24T12:09:55.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\ViewModels\\RelayCommand.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\RelayCommand.cs",
+              "RelativeToolTip": "WpfAppCourse\\ViewModels\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:54:28.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Resources.en.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Resources\\Resources.en.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Resources\\Resources.en.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Resources\\Resources.en.xaml",
+              "RelativeToolTip": "WpfAppCourse\\Resources\\Resources.en.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T12:01:57.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Reviews.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Models\\Reviews.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Models\\Reviews.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Models\\Reviews.cs",
+              "RelativeToolTip": "WpfAppCourse\\Models\\Reviews.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAABBwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:22:46.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ReviewItem.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Models\\ReviewItem.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Models\\ReviewItem.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Models\\ReviewItem.cs",
+              "RelativeToolTip": "WpfAppCourse\\Models\\ReviewItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:22:49.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\Login.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\Login.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\Login.xaml",
+              "RelativeToolTip": "WpfAppCourse\\Views\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-10T20:40:10.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AdminReviews.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AdminReviews.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\AdminReviews.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AdminReviews.xaml",
+              "RelativeToolTip": "WpfAppCourse\\Views\\AdminReviews.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T10:33:59.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\ViewModel.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\ViewModels\\ViewModel.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\ViewModel.cs",
+              "RelativeToolTip": "WpfAppCourse\\ViewModels\\ViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:51:23.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Reserv.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Models\\Reserv.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Models\\Reserv.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Models\\Reserv.cs",
+              "RelativeToolTip": "WpfAppCourse\\Models\\Reserv.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAABBwBIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:45:59.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MainSpecialists.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Models\\MainSpecialists.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Models\\MainSpecialists.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Models\\MainSpecialists.cs",
+              "RelativeToolTip": "WpfAppCourse\\Models\\MainSpecialists.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAABBwA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:58:24.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MainServices.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Models\\MainServices.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Models\\MainServices.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Models\\MainServices.cs",
+              "RelativeToolTip": "WpfAppCourse\\Models\\MainServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:47:50.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Models\\User.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Models\\User.cs",
+              "RelativeToolTip": "WpfAppCourse\\Models\\User.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAABBwAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:08:36.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UserProfil.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\UserProfil.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\UserProfil.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\UserProfil.xaml",
+              "RelativeToolTip": "WpfAppCourse\\Views\\UserProfil.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-10T08:08:52.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminServicesViewModel.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\AdminServicesViewModel.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\ViewModels\\AdminServicesViewModel.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\AdminServicesViewModel.cs",
+              "RelativeToolTip": "WpfAppCourse\\ViewModels\\AdminServicesViewModel.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAmwOQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T17:25:33.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AdminUsers.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AdminUsers.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\AdminUsers.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AdminUsers.xaml",
+              "RelativeToolTip": "WpfAppCourse\\Views\\AdminUsers.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-04T19:37:13.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\MainPage.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\MainPage.xaml",
+              "RelativeToolTip": "WpfAppCourse\\Views\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T10:02:35.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AdminReservs.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AdminReservs.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\AdminReservs.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AdminReservs.xaml",
+              "RelativeToolTip": "WpfAppCourse\\Views\\AdminReservs.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-11T09:04:54.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Signup.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\Signup.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\Signup.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\Signup.xaml",
+              "RelativeToolTip": "WpfAppCourse\\Views\\Signup.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-10T18:59:25.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AdminServices.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AdminServices.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\AdminServices.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AdminServices.xaml",
+              "RelativeToolTip": "WpfAppCourse\\Views\\AdminServices.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-09T10:11:53.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserProfileViewModel.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\UserProfileViewModel.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\ViewModels\\UserProfileViewModel.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\UserProfileViewModel.cs",
+              "RelativeToolTip": "WpfAppCourse\\ViewModels\\UserProfileViewModel.cs",
+              "ViewState": "AQIAAOcAAAAAAAAAAAAmwFUBAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T21:04:44.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminReviewViewModel.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\AdminReviewViewModel.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\ViewModels\\AdminReviewViewModel.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\AdminReviewViewModel.cs",
+              "RelativeToolTip": "WpfAppCourse\\ViewModels\\AdminReviewViewModel.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAABRwFoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:39:00.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminUsersViewModel.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\AdminUsersViewModel.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\ViewModels\\AdminUsersViewModel.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\AdminUsersViewModel.cs",
+              "RelativeToolTip": "WpfAppCourse\\ViewModels\\AdminUsersViewModel.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAwwFkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:43:32.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SpecialistsViewModel.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\SpecialistsViewModel.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\ViewModels\\SpecialistsViewModel.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\SpecialistsViewModel.cs",
+              "RelativeToolTip": "WpfAppCourse\\ViewModels\\SpecialistsViewModel.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAABRwLMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T20:12:13.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServicesViewModel.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\ServicesViewModel.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\ViewModels\\ServicesViewModel.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\ServicesViewModel.cs",
+              "RelativeToolTip": "WpfAppCourse\\ViewModels\\ServicesViewModel.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAmwCoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:10:24.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminSpecialistsViewModel.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\AdminSpecialistsViewModel.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\ViewModels\\AdminSpecialistsViewModel.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\AdminSpecialistsViewModel.cs",
+              "RelativeToolTip": "WpfAppCourse\\ViewModels\\AdminSpecialistsViewModel.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAmwMMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T09:57:59.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminReservsViewModel.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\AdminReservsViewModel.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\ViewModels\\AdminReservsViewModel.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\AdminReservsViewModel.cs",
+              "RelativeToolTip": "WpfAppCourse\\ViewModels\\AdminReservsViewModel.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAIAwwHgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:25:22.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserProfil.xaml.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\UserProfil.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\UserProfil.xaml.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\UserProfil.xaml.cs",
+              "RelativeToolTip": "WpfAppCourse\\Views\\UserProfil.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAABRwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T08:08:54.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Specialists.xaml.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\Specialists.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\Specialists.xaml.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\Specialists.xaml.cs",
+              "RelativeToolTip": "WpfAppCourse\\Views\\Specialists.xaml.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwC8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:03:25.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Signup.xaml.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\Signup.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\Signup.xaml.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\Signup.xaml.cs",
+              "RelativeToolTip": "WpfAppCourse\\Views\\Signup.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAABRwB4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:49:36.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Services.xaml.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\Services.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\Services.xaml.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\Services.xaml.cs",
+              "RelativeToolTip": "WpfAppCourse\\Views\\Services.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:13:33.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ServiceDetails.xaml.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\ServiceDetails.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\ServiceDetails.xaml.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\ServiceDetails.xaml.cs",
+              "RelativeToolTip": "WpfAppCourse\\Views\\ServiceDetails.xaml.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAABRwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:09:03.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MainReviews.xaml.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\MainReviews.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\MainReviews.xaml.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\MainReviews.xaml.cs",
+              "RelativeToolTip": "WpfAppCourse\\Views\\MainReviews.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAABRwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T12:08:57.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\MainPage.xaml.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "WpfAppCourse\\Views\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:27:40.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\Login.xaml.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\Login.xaml.cs",
+              "RelativeToolTip": "WpfAppCourse\\Views\\Login.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAABRwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:49:20.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppointmentWindow.xaml.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AppointmentWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\AppointmentWindow.xaml.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AppointmentWindow.xaml.cs",
+              "RelativeToolTip": "WpfAppCourse\\Views\\AppointmentWindow.xaml.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAASwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T07:25:35.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppContext.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AppContext.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\AppContext.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AppContext.cs",
+              "RelativeToolTip": "WpfAppCourse\\Views\\AppContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAABRwBkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:36:59.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminUsers.xaml.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AdminUsers.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\AdminUsers.xaml.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AdminUsers.xaml.cs",
+              "RelativeToolTip": "WpfAppCourse\\Views\\AdminUsers.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAwwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:47:37.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminSpecialists.xaml.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AdminSpecialists.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\AdminSpecialists.xaml.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AdminSpecialists.xaml.cs",
+              "RelativeToolTip": "WpfAppCourse\\Views\\AdminSpecialists.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAABRwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T14:09:16.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminServices.xaml.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AdminServices.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\AdminServices.xaml.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AdminServices.xaml.cs",
+              "RelativeToolTip": "WpfAppCourse\\Views\\AdminServices.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwDYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:07:21.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminReviews.xaml.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AdminReviews.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\AdminReviews.xaml.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AdminReviews.xaml.cs",
+              "RelativeToolTip": "WpfAppCourse\\Views\\AdminReviews.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAABRwDIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:57:24.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AdminReservs.xaml.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AdminReservs.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\AdminReservs.xaml.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AdminReservs.xaml.cs",
+              "RelativeToolTip": "WpfAppCourse\\Views\\AdminReservs.xaml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAABRwDMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T09:13:04.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ServiceDetailsViewModel.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\ServiceDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\ViewModels\\ServiceDetailsViewModel.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\ServiceDetailsViewModel.cs",
+              "RelativeToolTip": "WpfAppCourse\\ViewModels\\ServiceDetailsViewModel.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAABRwHgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:54:30.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ReviewsViewModel.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\ReviewsViewModel.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\ViewModels\\ReviewsViewModel.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\ReviewsViewModel.cs",
+              "RelativeToolTip": "WpfAppCourse\\ViewModels\\ReviewsViewModel.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAABRwFcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:22:09.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\ViewModels\\MainPageViewModel.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\MainPageViewModel.cs",
+              "RelativeToolTip": "WpfAppCourse\\ViewModels\\MainPageViewModel.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAABRwEoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:04:51.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "WpfAppCourse\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAABRwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T20:44:12.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AdminSpecialists.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AdminSpecialists.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\AdminSpecialists.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AdminSpecialists.xaml",
+              "RelativeToolTip": "WpfAppCourse\\Views\\AdminSpecialists.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-01T13:59:04.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "MainReviews.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\MainReviews.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\MainReviews.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\MainReviews.xaml",
+              "RelativeToolTip": "WpfAppCourse\\Views\\MainReviews.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-10T14:24:32.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DarkTheme.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Resources\\Themes\\DarkTheme.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Resources\\Themes\\DarkTheme.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Resources\\Themes\\DarkTheme.xaml",
+              "RelativeToolTip": "WpfAppCourse\\Resources\\Themes\\DarkTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-29T12:20:29.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AppointmentWindow.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AppointmentWindow.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\AppointmentWindow.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\AppointmentWindow.xaml",
+              "RelativeToolTip": "WpfAppCourse\\Views\\AppointmentWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-10T07:25:31.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ServiceDetails.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\ServiceDetails.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Views\\ServiceDetails.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Views\\ServiceDetails.xaml",
+              "RelativeToolTip": "WpfAppCourse\\Views\\ServiceDetails.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T08:01:53.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "LightTheme.xaml",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Resources\\Themes\\LightTheme.xaml",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Resources\\Themes\\LightTheme.xaml",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Resources\\Themes\\LightTheme.xaml",
+              "RelativeToolTip": "WpfAppCourse\\Resources\\Themes\\LightTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-12T12:02:07.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\App.xaml.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\App.xaml.cs",
+              "RelativeToolTip": "WpfAppCourse\\App.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAABRwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T12:20:50.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "WpfAppCourse\\Properties\\Settings.Designer.cs",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "WpfAppCourse\\Properties\\Settings.Designer.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAABBwDAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T15:05:25.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\App.config",
+              "RelativeDocumentMoniker": "WpfAppCourse\\App.config",
+              "ToolTip": "D:\\2\u043A\u0443\u0440\u04414\u0441\u0435\u043C\\\u041E\u041E\u041F\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439\\WpfAppCourse\\WpfAppCourse\\App.config",
+              "RelativeToolTip": "WpfAppCourse\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-25T13:28:01.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

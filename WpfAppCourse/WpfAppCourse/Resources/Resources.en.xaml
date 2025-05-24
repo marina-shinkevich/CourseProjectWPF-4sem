@@ -1,0 +1,38 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib" x:Name="FaceMassageTitle">
+
+    <sys:String x:Key="Home">Home</sys:String>
+    <sys:String x:Key="Services">Services</sys:String>
+    <sys:String x:Key="Specialists">Specialists</sys:String>
+    <sys:String x:Key="Reviews">Reviews</sys:String>
+    <sys:String x:Key="WelcomeMessage">Welcome to YOUTH LAB The Laboratory of Youth and Beauty!</sys:String>
+    <sys:String x:Key="MainDescription">YOUTH LAB is a center where your beauty and youth are the priority. We offer modern treatments from facial cleansing to injection cosmetology and hardware lifting. Our specialists are professionals with years of experience ready to create the perfect care for your skin.</sys:String>
+
+    <sys:String x:Key="Filtertext1">Didn't find the procedure you need? Use the filter</sys:String>
+    <sys:String x:Key="Filtertext2">Type of procedure:</sys:String>
+    <sys:String x:Key="Filtertext3">Max. price:</sys:String>
+    <sys:String x:Key="Filtertext4">Max duration (min):</sys:String>
+    <sys:String x:Key="Reset">Reset filter</sys:String>
+    <sys:String x:Key="Apply">Apply</sys:String>
+    <sys:String x:Key="PersData">Personal data:</sys:String>
+    <sys:String x:Key="Surn">Surname:</sys:String>
+    <sys:String x:Key="Name">Name:</sys:String>
+    <sys:String x:Key="Login">Login:</sys:String>
+    <sys:String x:Key="Pass">Password:</sys:String>
+    <sys:String x:Key="Phone">Phone:</sys:String>
+    <sys:String x:Key="Registration">Registrations:</sys:String>
+
+
+
+
+    <!-- Общие элементы -->
+    <sys:String x:Key="ServicesTitle">SERVICES</sys:String>
+
+    <sys:String x:Key="SpecialistsTitle">Specialists</sys:String>
+
+
+
+
+</ResourceDictionary>
+

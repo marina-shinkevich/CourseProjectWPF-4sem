@@ -1,0 +1,13 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="PrimaryBackgroundBrush" Color="#FF142E20" />
+    <SolidColorBrush x:Key="PrimaryStackPannel" Color="#FF15211B" />
+    <SolidColorBrush x:Key="PrimaryTextColor" Color="#ffffff" />
+    <SolidColorBrush x:Key="PrimaryRewiewColor" Color="#0D1C17" />
+
+
+    <SolidColorBrush x:Key="ServicesBackgroundBrush" Color="#2B382B" />
+    <SolidColorBrush x:Key="ServicesDescriptBrush" Color="Gray" />
+
+
+</ResourceDictionary>
